@@ -1,0 +1,12 @@
+{
+    "Name": "EEG-attention-rsvp-exp2",
+    "BIDSVersion": "1.0.2",
+    "License": "CC0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Grootswagers, Tijl",
+        "Robinson, Amanda",
+        "Shatek, Sofia",
+        "Carlson, Thomas"
+    ]
+}
